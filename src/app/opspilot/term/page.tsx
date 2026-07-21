@@ -33,8 +33,8 @@ export default function TermsPage() {
           <h2 className="text-2xl font-semibold">Availability</h2>
 
           <p className="mt-3 leading-7 text-gray-600">
-            OpsPilot is provided on an "as-is" basis without warranties of any
-            kind. Features may change without prior notice.
+            OpsPilot is provided on an &quot;as-is&quot; basis without
+            warranties of any kind. Features may change without prior notice.
           </p>
         </div>
 
